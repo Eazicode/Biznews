@@ -769,6 +769,15 @@
   .bg-\[url\(\.\.\/images\/news-700x435-5\.jpg\)\] {
     background-image: url(../images/news-700x435-5.jpg);
   }
+  .bg-\[url\(\/images\/h\.jpg\)\] {
+    background-image: url(/images/h.jpg);
+  }
+  .bg-\[url\(\/images\/her\.jpg\)\] {
+    background-image: url(/images/her.jpg);
+  }
+  .bg-\[url\(\/images\/hero-section\.jpg\)\] {
+    background-image: url(/images/hero-section.jpg);
+  }
   .bg-\[url\(\/images\/news-700x435-1\.jpg\)\] {
     background-image: url(/images/news-700x435-1.jpg);
   }
